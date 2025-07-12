@@ -62,7 +62,7 @@ skill-swap/
 ├── package.json            # npm scripts and dependencies
 ```
 
-# Available Sripts
+# Available Scripts
  - npm start : Runs the app in  development mode.
  -  npm run build : BUilds the app for production.
 
