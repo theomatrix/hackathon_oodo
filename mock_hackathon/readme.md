@@ -2,7 +2,11 @@
 
 🚀 *Skill Swap* is a simple frontend-only prototype web application built for a hackathon to connect people and help them exchange skills in a peer-to-peer community.
 
-It’s made with *plain React, **React Router, and **basic CSS* — no backend or database yet — just a working prototype to show the idea.
+It’s made with 
+- React js
+- React Router
+- CSS
+- **No backend or database yet — just a working prototype to show the idea.**
 
 ---
 
